@@ -1,4 +1,4 @@
-# Github-Trello integration using [Auth0 webtask](https://webtask.io)
+# Github Issues -Trello integration using [Auth0 webtask](https://webtask.io)
 
 This a simple Auth0 Webtask which recieves issues generated in a github repo and creates a corresponding card in a given trello list. The card contains the issue title as title and the link to the issue as content.
 
