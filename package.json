@@ -1,0 +1,32 @@
+{
+  "name": "webtask-githubtrello",
+  "version": "1.0.0",
+  "description": "webtask-githubTrello",
+  "main": "githubTrello.js",
+  "dependencies": {
+    "eslint": "^4.10.0",
+    "request": "^2.83.0",
+    "safe-compare": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webocs/webtask-githubTrello.git"
+  },
+  "keywords": [
+    "webtask",
+    "trello",
+    "github",
+    "issue",
+    "tracker"
+  ],
+  "author": "Maximiliano Arias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webocs/webtask-githubTrello/issues"
+  },
+  "homepage": "https://github.com/webocs/webtask-githubTrello#readme"
+}
